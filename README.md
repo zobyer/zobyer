@@ -3,7 +3,7 @@ A Full Stack Developer from Bangladesh, based in Dhaka
 
 ## About Me
 
-- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-React.js-0000FF?style=for-the-badge&logo=react&logoColor=ffffff)](https://www.elastic.co/)
+- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-React.js-0000FF?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ahmzobyer@gmail.com) [![Twitter](https://img.shields.io/badge/-Linked%20In-0072b1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/a-h-m-zobyer-192ab2204)
 
