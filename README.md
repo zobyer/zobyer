@@ -23,7 +23,7 @@ A Full Stack Developer from Bangladesh, based in Dhaka
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)](https://expressjs.com/)
 [![Flask](https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
-[![Flask](https://img.shields.io/badge/-Nuxt.js-41B883?style=flat-square&logo=nuxtdotjs&logoColor=ffffff)](https://vuejs.org/)
+[![Flask](https://img.shields.io/badge/-Nuxt.js-41B883?style=flat-square&logo=nuxtdotjs&logoColor=ffffff)](https://nuxtjs.org/)
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
