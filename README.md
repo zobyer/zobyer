@@ -1,5 +1,5 @@
 # Hi, This is A. H. M. Zobyer
-A Full Stack developer from Bangladesh, based in Dhaka
+A Full Stack Developer from Bangladesh, based in Dhaka
 
 ## About Me
 
